@@ -3,7 +3,7 @@ authors = []
 date = 2019-12-13T05:00:00Z
 draft = true
 excerpt = "Containers, Automation and more..."
-hero = "/static/images/seattle-shipping-port_t20_goYr77 (1).jpg"
+hero = "/static/images/brandmark-design (1).png"
 timeToRead = 4
 title = "Codeworks"
 
